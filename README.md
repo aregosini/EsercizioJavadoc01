@@ -1,3 +1,5 @@
+Ciao da Alby al prof Pollini
+
 # EsercizioJavadoc01
 Una libreria ci ha commissionato un software per la gestione dei libri pubblicati. Le richieste sono lo seguenti:
 
